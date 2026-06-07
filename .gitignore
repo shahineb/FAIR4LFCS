@@ -175,7 +175,6 @@ cython_debug/
 *.nc
 *.npy
 *.npz
-*.csv
 *.h5
 *.hdf5
 *.pkl
